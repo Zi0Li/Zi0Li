@@ -1,6 +1,5 @@
 
 <h4>Olá eu sou Marcelo Zioli!</h4>
-<li>🔭 Estagiário HubInova-Fema</li>
 <li>📚 Analise e Desenvolvimento de Sistemas - FEMA 3/4</li>
 
 <br>
